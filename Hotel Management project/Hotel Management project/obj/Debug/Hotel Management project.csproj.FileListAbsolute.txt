@@ -1,0 +1,18 @@
+C:\Users\HP\source\repos\Hotel Management project\Hotel Management project\bin\Debug\Hotel Management project.exe.config
+C:\Users\HP\source\repos\Hotel Management project\Hotel Management project\bin\Debug\Hotel Management project.exe
+C:\Users\HP\source\repos\Hotel Management project\Hotel Management project\bin\Debug\Hotel Management project.pdb
+C:\Users\HP\source\repos\Hotel Management project\Hotel Management project\obj\Debug\Hotel Management project.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Hotel Management project\Hotel Management project\obj\Debug\Hotel_Management_project.Form1.resources
+C:\Users\HP\source\repos\Hotel Management project\Hotel Management project\obj\Debug\Hotel_Management_project.Properties.Form2.resources
+C:\Users\HP\source\repos\Hotel Management project\Hotel Management project\obj\Debug\Hotel_Management_project.Properties.Register_Form.resources
+C:\Users\HP\source\repos\Hotel Management project\Hotel Management project\obj\Debug\Hotel_Management_project.Properties.Resources.resources
+C:\Users\HP\source\repos\Hotel Management project\Hotel Management project\obj\Debug\Hotel Management project.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Hotel Management project\Hotel Management project\obj\Debug\Hotel Management project.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Hotel Management project\Hotel Management project\obj\Debug\Hotel Management project.exe
+C:\Users\HP\source\repos\Hotel Management project\Hotel Management project\obj\Debug\Hotel Management project.pdb
+C:\Users\HP\source\repos\Hotel Management project\Hotel Management project\obj\Debug\Hotel_Management_project.Food_New_Entry.resources
+C:\Users\HP\source\repos\Hotel Management project\Hotel Management project\obj\Debug\Hotel_Management_project.Hotel_App.resources
+C:\Users\HP\source\repos\Hotel Management project\Hotel Management project\obj\Debug\Hotel_Management_project.Sales_Billing.resources
+C:\Users\HP\source\repos\Hotel Management project\Hotel Management project\obj\Debug\Hotel_Management_project.Search_Sales.resources
+C:\Users\HP\source\repos\Hotel Management project\Hotel Management project\bin\Debug\tblFood.mdf
+C:\Users\HP\source\repos\Hotel Management project\Hotel Management project\bin\Debug\tblFood_log.ldf
